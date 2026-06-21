@@ -1,0 +1,10 @@
+{
+    "rutas": [
+        "E:\\carpeta prueba"
+    ],
+    "estados": {
+        "org": false,
+        "rgb": false,
+        "tinta": false
+    }
+}
